@@ -1,1 +1,1 @@
-# snake-thingy
+# snake-s
